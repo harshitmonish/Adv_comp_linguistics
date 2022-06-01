@@ -1,4 +1,4 @@
-# Word Pronuncistion Analysis
+# Word Pronunciation Analysis
 
 In this project we aim to predict the duration of the pronunciation of a word given the phonemes of the word by implementing various models. Further we compare the results of each models we have implemented. We can make the distributional assumption for sound in a word just like we can for words in a sentence and sounds are partly determined by the contexts in which they occur.
 
